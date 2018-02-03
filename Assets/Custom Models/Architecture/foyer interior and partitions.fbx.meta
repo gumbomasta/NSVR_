@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 2483f207ce3498b46a0de945015e6900
+timeCreated: 1506971732
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Default_Prototype
+    100004: //RootNode
+    100006: Lamp
+    100008: Point
+    100010: Point.001
+    100012: Point.002
+    100014: Point.003
+    100016: shadow plane
+    400000: Camera
+    400002: Default_Prototype
+    400004: //RootNode
+    400006: Lamp
+    400008: Point
+    400010: Point.001
+    400012: Point.002
+    400014: Point.003
+    400016: shadow plane
+    2300000: Default_Prototype
+    2300002: shadow plane
+    3300000: Default_Prototype
+    3300002: shadow plane
+    4300000: Default_Prototype
+    4300002: shadow plane
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03_-_Default
+    second: {fileID: 2100000, guid: 55a6145844dc594478aace10665eb343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Wall
+    second: {fileID: 2100000, guid: 4fd629b0ad6984e46be615990b7d8391, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Deep Cherry Wood
+    second: {fileID: 2100000, guid: 416ffd1a737456245a149be30eea302a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Prototype
+    second: {fileID: 2100000, guid: 105f72ffea040154f8bdc5e1a6cc0480, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bamboo
+    second: {fileID: 2100000, guid: 8f7325bde0479034dbae45a0603d9c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 21c3ec2535c3ce6489c551dca23f3276, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue glow dance entrance
+    second: {fileID: 2100000, guid: 48f55254f2ef93c49b86cd533357ba8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bricks_019
+    second: {fileID: 2100000, guid: b2dbe6e72ec3f554ca2bc6e6b963e048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: castle wall 3 - alt infinite 1_dnu
+    second: {fileID: 2100000, guid: 43f0dd0ddbd059e42b5821865c5a700e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cherry double doors
+    second: {fileID: 2100000, guid: 416ffd1a737456245a149be30eea302a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cliff
+    second: {fileID: 2100000, guid: f1d639a1fb1639c49b29ad0e843f9211, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: concrete02_D
+    second: {fileID: 2100000, guid: 6ef91357c81987c46b65c80e9f686c7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grate_cage
+    second: {fileID: 2100000, guid: cca8d5545ed98e94084f32253e07222f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hallway_wallpaper seamless 1
+    second: {fileID: 2100000, guid: 780e07a2fef12e64aae1ecafb6c5ce5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hallway_wallpaper seamless 2
+    second: {fileID: 2100000, guid: 3cdf205d048c31547b862207d750cc5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hallway_wallpaper seamless 3
+    second: {fileID: 2100000, guid: b90e1669a175b1745906266d19643996, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hallway_wallpaper seamless 5
+    second: {fileID: 2100000, guid: d7785a95b52c8fd4b9558b22b2d8eb23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hallway_wallpaper seamless 6
+    second: {fileID: 2100000, guid: cd22dfccc3a7fe142825dfe18cc70b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lodgewood
+    second: {fileID: 2100000, guid: fdbcc2ee6d198c349ba8a2a7ca43b8ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: oldMarble.001
+    second: {fileID: 2100000, guid: 5ea8588c798453f4ca40abe9ef6a2b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parquet pattern
+    second: {fileID: 2100000, guid: af685578c4c8fce4286ecdad5d41dea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parquetfloor
+    second: {fileID: 2100000, guid: a8b0020042d9d3f4cb8e1b12e2597d3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road treads
+    second: {fileID: 2100000, guid: c11bcd8d598d97547a37ed788b379669, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tableau black
+    second: {fileID: 2100000, guid: 1606f2d6170b68048b9ec37822584734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_american_cherry_bannister
+    second: {fileID: 2100000, guid: 416ffd1a737456245a149be30eea302a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_planks_old_beat
+    second: {fileID: 2100000, guid: d5774e53faf146c44b1764983c474c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_planks_old_beat_1
+    second: {fileID: 2100000, guid: d5774e53faf146c44b1764983c474c80, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
